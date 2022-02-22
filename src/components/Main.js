@@ -7,7 +7,7 @@ class Main extends Component {
     return (
       <div className="container-fluid mt-5">
         <div className="row">
-          <main role="main" className="col-lg-12 ml-auto mr-auto" style={{ maxWidth: '600px' }}>
+          <main role="main" className="col-lg-12 ml-auto mr-auto" style={{ maxWidth: '500px' , maxHeight: '700px' }}>
             <div className="content mr-auto ml-auto">
               <p>&nbsp;</p>
               <h2>Share Image</h2>
@@ -16,7 +16,7 @@ class Main extends Component {
                 const description = this.imageDescription.value
                 this.props.uploadImage(description)
               }} >
-                <input type='file' accept=".jpg, .jpeg, .png, .bmp, .gif" onChange={this.props.captureFile} />
+                <input type='file' accept=".MP4, .MOV" onChange={this.props.captureFile} />
                   <div className="form-group mr-sm-2">
                     <br></br>
                       <input
@@ -45,7 +45,7 @@ class Main extends Component {
                     </div>
                     <ul id="imageList" className="list-group list-group-flush">
                       <li className="list-group-item">
-                        <p class="text-center"><img alt="Vennverse.com" src={`https://ipfs.infura.io/ipfs/${image.hash}`} style={{ maxWidth: '420px'}}/></p>
+                        <p class="text-center"><video alt="Vennverse.com" src={`https://ipfs.infura.io/ipfs/${image.hash}`} width="320" height="640"  controls loop /></p>
                         <p>{image.description}</p>
                       </li>
                       <li key={key} className="list-group-item py-2">
