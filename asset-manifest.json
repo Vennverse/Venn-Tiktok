@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Venn-Tiktok/static/css/main.d850c1a7.chunk.css",
-    "main.js": "/Venn-Tiktok/static/js/main.e263c57d.chunk.js",
-    "main.js.map": "/Venn-Tiktok/static/js/main.e263c57d.chunk.js.map",
+    "main.js": "/Venn-Tiktok/static/js/main.693ed089.chunk.js",
+    "main.js.map": "/Venn-Tiktok/static/js/main.693ed089.chunk.js.map",
     "runtime-main.js": "/Venn-Tiktok/static/js/runtime-main.a188af6a.js",
     "runtime-main.js.map": "/Venn-Tiktok/static/js/runtime-main.a188af6a.js.map",
     "static/css/2.7b4682b0.chunk.css": "/Venn-Tiktok/static/css/2.7b4682b0.chunk.css",
     "static/js/2.19510393.chunk.js": "/Venn-Tiktok/static/js/2.19510393.chunk.js",
     "static/js/2.19510393.chunk.js.map": "/Venn-Tiktok/static/js/2.19510393.chunk.js.map",
     "index.html": "/Venn-Tiktok/index.html",
-    "precache-manifest.3abca6e759f6191e4acbfcc248ec74be.js": "/Venn-Tiktok/precache-manifest.3abca6e759f6191e4acbfcc248ec74be.js",
+    "precache-manifest.ed84f0875c8731130e4631c06ce747d4.js": "/Venn-Tiktok/precache-manifest.ed84f0875c8731130e4631c06ce747d4.js",
     "service-worker.js": "/Venn-Tiktok/service-worker.js",
     "static/css/2.7b4682b0.chunk.css.map": "/Venn-Tiktok/static/css/2.7b4682b0.chunk.css.map",
     "static/css/main.d850c1a7.chunk.css.map": "/Venn-Tiktok/static/css/main.d850c1a7.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.7b4682b0.chunk.css",
     "static/js/2.19510393.chunk.js",
     "static/css/main.d850c1a7.chunk.css",
-    "static/js/main.e263c57d.chunk.js"
+    "static/js/main.693ed089.chunk.js"
   ]
 }

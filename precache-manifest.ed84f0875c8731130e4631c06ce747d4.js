@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3ad0aacf36bc7c5f8fcef9dbce1eb10",
+    "revision": "3c33a2f27425562295157c40d08c5c2e",
     "url": "/Venn-Tiktok/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Venn-Tiktok/static/css/2.7b4682b0.chunk.css"
   },
   {
-    "revision": "4ab487efccfa763c2dcf",
+    "revision": "12ec39848337cb506c71",
     "url": "/Venn-Tiktok/static/css/main.d850c1a7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Venn-Tiktok/static/js/2.19510393.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4ab487efccfa763c2dcf",
-    "url": "/Venn-Tiktok/static/js/main.e263c57d.chunk.js"
+    "revision": "12ec39848337cb506c71",
+    "url": "/Venn-Tiktok/static/js/main.693ed089.chunk.js"
   },
   {
     "revision": "d1fa31b08995f907858d",
