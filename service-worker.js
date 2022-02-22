@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Venn-Tiktok/precache-manifest.ed84f0875c8731130e4631c06ce747d4.js"
+  "/Venn-Tiktok/precache-manifest.cf27678c0e2e2c89ac1dac71fb80445e.js"
 );
 
 self.addEventListener('message', (event) => {

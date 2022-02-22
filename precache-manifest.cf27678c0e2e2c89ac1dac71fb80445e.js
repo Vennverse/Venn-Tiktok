@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c33a2f27425562295157c40d08c5c2e",
+    "revision": "7e2d4fa0b18cc7cdc05c168910fdce53",
     "url": "/Venn-Tiktok/index.html"
   },
   {
