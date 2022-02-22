@@ -1,0 +1,9 @@
+{
+  "short_name": "Vennverse",
+  "name": "Vennverse.com",
+ 
+  "start_url": "https://vennverse.com/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
