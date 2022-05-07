@@ -7,7 +7,7 @@ class Main extends Component {
     return (
       <div className="container-fluid mt-5">
         <div className="row">
-          <main role="main" className="col-lg-12 ml-auto mr-auto" style={{ maxWidth: '500px' , maxHeight: '700px' }}>
+          <main role="main" className="col-lg-12 ml-auto mr-auto" style={{ maxWidth: '800px' , maxHeight: '700px' }}>
             <div className="content mr-auto ml-auto">
               <p>&nbsp;</p>
               <h2>Share Videos</h2>
@@ -45,7 +45,7 @@ class Main extends Component {
                     </div>
                     <ul id="imageList" className="list-group list-group-flush">
                       <li className="list-group-item">
-                        <p class="text-center"><video alt="Vennverse.com" src={`https://ipfs.infura.io/ipfs/${image.hash}`} width="320" height="640"  controls loop /></p>
+                        <p class="text-center"><video alt="Vennverse.com" src={`https://ipfs.infura.io/ipfs/${image.hash}`} width="200" height="640"  controls loop /></p>
                         <p>{image.description}</p>
                       </li>
                       <li key={key} className="list-group-item py-2">
